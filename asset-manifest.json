@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/lead-qa-interview/static/css/main.d64f8149.chunk.css",
+    "main.js": "/lead-qa-interview/static/js/main.8e332ac6.chunk.js",
+    "main.js.map": "/lead-qa-interview/static/js/main.8e332ac6.chunk.js.map",
+    "runtime-main.js": "/lead-qa-interview/static/js/runtime-main.29d0e782.js",
+    "runtime-main.js.map": "/lead-qa-interview/static/js/runtime-main.29d0e782.js.map",
+    "static/css/2.7593e019.chunk.css": "/lead-qa-interview/static/css/2.7593e019.chunk.css",
+    "static/js/2.676dba38.chunk.js": "/lead-qa-interview/static/js/2.676dba38.chunk.js",
+    "static/js/2.676dba38.chunk.js.map": "/lead-qa-interview/static/js/2.676dba38.chunk.js.map",
+    "index.html": "/lead-qa-interview/index.html",
+    "precache-manifest.3d8580eb41afbe39b0f074f3dd89e1b2.js": "/lead-qa-interview/precache-manifest.3d8580eb41afbe39b0f074f3dd89e1b2.js",
+    "service-worker.js": "/lead-qa-interview/service-worker.js",
+    "static/css/2.7593e019.chunk.css.map": "/lead-qa-interview/static/css/2.7593e019.chunk.css.map",
+    "static/css/main.d64f8149.chunk.css.map": "/lead-qa-interview/static/css/main.d64f8149.chunk.css.map",
+    "static/js/2.676dba38.chunk.js.LICENSE.txt": "/lead-qa-interview/static/js/2.676dba38.chunk.js.LICENSE.txt",
+    "static/js/main.8e332ac6.chunk.js.LICENSE.txt": "/lead-qa-interview/static/js/main.8e332ac6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/lead-qa-interview/static/media/logo.34eda389.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29d0e782.js",
+    "static/css/2.7593e019.chunk.css",
+    "static/js/2.676dba38.chunk.js",
+    "static/css/main.d64f8149.chunk.css",
+    "static/js/main.8e332ac6.chunk.js"
+  ]
+}
